@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\bin\Debug\net6.0\laco-while.exe
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\bin\Debug\net6.0\laco-while.deps.json
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\bin\Debug\net6.0\laco-while.runtimeconfig.json
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\bin\Debug\net6.0\laco-while.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\bin\Debug\net6.0\laco-while.pdb
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\obj\Debug\net6.0\laco-while.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\obj\Debug\net6.0\laco-while.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\obj\Debug\net6.0\laco-while.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\obj\Debug\net6.0\laco-while.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\obj\Debug\net6.0\laco-while.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\obj\Debug\net6.0\laco-while.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\obj\Debug\net6.0\refint\laco-while.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\obj\Debug\net6.0\laco-while.pdb
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\obj\Debug\net6.0\laco-while.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\laco-while\obj\Debug\net6.0\ref\laco-while.dll

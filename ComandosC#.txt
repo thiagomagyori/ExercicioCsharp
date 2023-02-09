@@ -1,0 +1,9 @@
+criar um novo projeto console 
+dotnet new console -o nomedoprojeto
+
+para etrar na pasta
+cd .\nome do projeto\   cd .\variaveiscsharp\
+
+cd .. volta uma pasta
+
+Crl + k + c comenta tudo o que foi selecionado

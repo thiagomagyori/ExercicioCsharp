@@ -1,0 +1,6 @@
+o sistema de clientes deverá armazenar os cadastros das pessoas físicas e jurídicas;
+o cadastro das pessoas físicas é feito com os seguintes dados: nome, CPF e data de nascimento;
+o cadastro das pessoas jurídicas é feito com os seguintes dados: nome e CNPJ;
+ambos devem possuir a opção para pagar impostos;
+o sistema deve armazenar os registros em arquivos.
+Você deverá se atentar às regras estabelecidas, tratando os valores não permitidos inseridos pelos usuários. Para isso, você deve resolver três desafios.

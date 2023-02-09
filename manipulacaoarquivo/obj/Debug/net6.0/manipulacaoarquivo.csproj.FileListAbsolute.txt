@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\bin\Debug\net6.0\manipulacaoarquivo.exe
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\bin\Debug\net6.0\manipulacaoarquivo.deps.json
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\bin\Debug\net6.0\manipulacaoarquivo.runtimeconfig.json
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\bin\Debug\net6.0\manipulacaoarquivo.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\bin\Debug\net6.0\manipulacaoarquivo.pdb
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\obj\Debug\net6.0\manipulacaoarquivo.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\obj\Debug\net6.0\manipulacaoarquivo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\obj\Debug\net6.0\manipulacaoarquivo.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\obj\Debug\net6.0\manipulacaoarquivo.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\obj\Debug\net6.0\manipulacaoarquivo.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\obj\Debug\net6.0\manipulacaoarquivo.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\obj\Debug\net6.0\refint\manipulacaoarquivo.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\obj\Debug\net6.0\manipulacaoarquivo.pdb
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\obj\Debug\net6.0\manipulacaoarquivo.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\manipulacaoarquivo\obj\Debug\net6.0\ref\manipulacaoarquivo.dll

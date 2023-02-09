@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\bin\Debug\net6.0\estruturacontrole.exe
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\bin\Debug\net6.0\estruturacontrole.deps.json
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\bin\Debug\net6.0\estruturacontrole.runtimeconfig.json
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\bin\Debug\net6.0\estruturacontrole.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\bin\Debug\net6.0\estruturacontrole.pdb
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\obj\Debug\net6.0\estruturacontrole.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\obj\Debug\net6.0\estruturacontrole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\obj\Debug\net6.0\estruturacontrole.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\obj\Debug\net6.0\estruturacontrole.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\obj\Debug\net6.0\estruturacontrole.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\obj\Debug\net6.0\estruturacontrole.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\obj\Debug\net6.0\refint\estruturacontrole.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\obj\Debug\net6.0\estruturacontrole.pdb
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\obj\Debug\net6.0\estruturacontrole.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\estruturacontrole\obj\Debug\net6.0\ref\estruturacontrole.dll

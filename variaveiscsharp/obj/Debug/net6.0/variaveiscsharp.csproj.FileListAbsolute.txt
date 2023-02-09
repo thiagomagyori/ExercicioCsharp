@@ -1,0 +1,15 @@
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\bin\Debug\net6.0\variaveiscsharp.exe
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\bin\Debug\net6.0\variaveiscsharp.deps.json
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\bin\Debug\net6.0\variaveiscsharp.runtimeconfig.json
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\bin\Debug\net6.0\variaveiscsharp.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\bin\Debug\net6.0\variaveiscsharp.pdb
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\obj\Debug\net6.0\variaveiscsharp.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\obj\Debug\net6.0\variaveiscsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\obj\Debug\net6.0\variaveiscsharp.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\obj\Debug\net6.0\variaveiscsharp.AssemblyInfo.cs
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\obj\Debug\net6.0\variaveiscsharp.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\obj\Debug\net6.0\variaveiscsharp.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\obj\Debug\net6.0\refint\variaveiscsharp.dll
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\obj\Debug\net6.0\variaveiscsharp.pdb
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\obj\Debug\net6.0\variaveiscsharp.genruntimeconfig.cache
+C:\Users\thiag\Desktop\Front-End\Exercício C#\variaveiscsharp\obj\Debug\net6.0\ref\variaveiscsharp.dll
